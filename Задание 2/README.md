@@ -1,8 +1,8 @@
 # Задание 2
 Реализовать копирование файла размером 100 Мб 4 методами?
-
-FileInputStream/FileOutputStream
-FileChannel
-Apache Commons IO
-Files class
+  
+FileInputStream/FileOutputStream  
+FileChannel  
+Apache Commons IO  
+Files class  
 Замерить затраты по времени и памяти и провести сравнительный анализ.
